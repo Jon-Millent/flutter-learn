@@ -38,3 +38,5 @@ class MyApp extends StatelessWidget {
 点击运行之后显示
 
 ![](https://user-gold-cdn.xitu.io/2018/7/23/164c678d96e69013?w=528&h=820&f=png&s=49780)
+
+<a href="https://github.com/Jon-Millent/flutter-learn/blob/master/layout-and-controls.md">下一课：布局和控件</a>
