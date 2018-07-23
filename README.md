@@ -13,5 +13,5 @@ flutter入门指南
   * 搜索flutter，然后安装，然后restart.....
 
 # 目录
-* 创建项目
-* 布局和控件
+* <a href="https://github.com/Jon-Millent/flutter-learn/blob/master/create-project.md">创建项目</a>
+* <a href="https://github.com/Jon-Millent/flutter-learn/blob/master/layout-and-controls.md">布局和控件</a>
