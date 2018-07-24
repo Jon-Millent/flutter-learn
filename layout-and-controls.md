@@ -1,1 +1,61 @@
 # layout-and-controls
+
+组件列表
+
+1. 显示组件
+   - 文字(Text)
+   - 富文本(RichText)
+   - 图像(Image)
+   - 图标(Icon)
+   - 浮雕按钮(RaisedButton)
+   - 扁平按钮(FlatButton)
+   - 图标按钮(IconButton)
+   - 文本框(TextField)
+   - 复选框(Checkbox)
+   - 单选框(Radio)
+   - 开关(Switch)
+   - 滑块(Slider)
+   - 日期事件选择(Date & Time Pickers)
+2. 装饰组件
+   - 透明(Opacity)
+   - 变形(Transform)
+   - DecoratedBox
+   - FractionalTranslation
+   - RotatedBox
+   - ClipOval
+   - ClipPath
+   - ClipRect
+   - CustomPaint
+   - BackdropFilter
+3. 布局组件
+   - Container
+   - Padding
+   - Center
+   - Align
+   - FittedBox
+   - AspectRatio
+   - ConstrainedBox
+   - Baseline
+   - FractionallySizedBox
+   - IntrinsicHeight
+   - IntrinsicWidth
+   - LimitedBox
+   - Offstage
+   - OverflowBox
+   - SizedBox
+   - SizedOverflowBox
+   - Transform
+   - CustomSingleChildLayout
+   - Row
+   - Column
+   - Stack
+   - IndexedStack
+   - GridView
+   - Flow
+   - Table
+   - Wrap
+   - ListBody
+   - ListView
+   - CustomMultiChildLayout
+   - LayoutBuilder
+4. 对话框
