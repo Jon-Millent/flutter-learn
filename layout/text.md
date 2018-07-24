@@ -28,7 +28,7 @@ new Text(
 * <a href="#height">height</a>
 * <a href="#letterSpacing">letterSpacing</a>
 * <a href="#fontFamily">fontFamily</a>
-* <a href="#decorationStyle">v</a>
+* <a href="#decorationStyle">decorationStyle</a>
 
 ## color
 <table>
