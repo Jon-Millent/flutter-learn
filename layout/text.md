@@ -139,8 +139,8 @@ new Text(
   </tbody>
 </table>
 
-## fontSize `Float`
-文字大小
+## fontSize 
+`Float`文字大小
 
 <table>
   <thead>
@@ -217,8 +217,8 @@ new Text(
   </tbody>
 </table>
 
-## height `Float`
-行高
+## height 
+`Float`行高
 <table>
   <thead>
     <tr>
@@ -253,8 +253,8 @@ new Text(
 </table>
 
 
-## letterSpacing `Float`
-元素的字母间距
+## letterSpacing 
+`Float`元素的字母间距
 <table>
   <thead>
     <tr>
@@ -289,8 +289,8 @@ new Text(
 
 
 
-# maxLines `Int`
-文本要跨越的可选最大行数，如果文本超过给定的行数，则将根据溢出截断。  
+# maxLines 
+`Int` 文本要跨越的可选最大行数，如果文本超过给定的行数，则将根据溢出截断。  
 如果为1，则文本不会换行。否则，文本将被包裹在框的边缘。
 <table>
   <thead>
@@ -333,8 +333,8 @@ new Text(
   </tbody>
 </table>
 
-# softWrap `bool`
-是否换行
+# softWrap 
+`bool`是否换行 
 
 <table>
   <thead>
@@ -356,8 +356,8 @@ new Text(
   </tbody>
 </table>
 
-# textAlign `TextAlign`
-文字对齐方式
+# textAlign 
+`TextAlign`文字对齐方式 
 <table>
   <thead>
     <tr>
@@ -385,8 +385,8 @@ new Text(
   </tbody>
 </table>
 
-# textScaleFactor `Float`
-文字放大倍数
+# textScaleFactor 
+`Float`文字放大倍数 
 <table>
   <thead>
     <tr>
