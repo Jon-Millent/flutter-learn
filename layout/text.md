@@ -19,6 +19,17 @@ new Text(
 ```
 # style
 
+* <a href="#color">color</a>
+* <a href="#decoration">decoration</a>
+* <a href="#decorationColor">decorationColor</a>
+* <a href="#fontSize">fontSize</a>
+* <a href="#fontWeight">fontWeight</a>
+* <a href="#fontStyle">fontStyle</a>
+* <a href="#height">height</a>
+* <a href="#letterSpacing">letterSpacing</a>
+* <a href="#fontFamily">fontFamily</a>
+* <a href="#decorationStyle">v</a>
+
 ## color
 <table>
   <thead>
@@ -48,6 +59,10 @@ new Text(
   </thead>
   <tbody>
   	<tr>
+  		<td>TextDecoration.none</td>
+  		<td>默认，无</td>
+  	</tr>
+  	<tr>
   		<td>TextDecoration.underline</td>
   		<td>下划线</td>
   	</tr>
@@ -58,10 +73,6 @@ new Text(
   	<tr>
   		<td>TextDecoration.underline</td>
   		<td>上划线</td>
-  	</tr>
-  	<tr>
-  		<td>TextDecoration.none</td>
-  		<td>无</td>
   	</tr>
   </tbody>
 </table>
@@ -97,6 +108,10 @@ new Text(
   </thead>
   <tbody>
   	<tr>
+  		<td>TextDecorationStyle.solid</td>
+  		<td>默认，定义实线</td>
+  	</tr>
+  	<tr>
   		<td>TextDecorationStyle.dashed</td>
   		<td>虚线</td>
   	</tr>
@@ -109,17 +124,13 @@ new Text(
   		<td>定义双线</td>
   	</tr>
   	<tr>
-  		<td>TextDecorationStyle.solid</td>
-  		<td>定义实线</td>
-  	</tr>
-  	<tr>
   		<td>TextDecorationStyle.wavy</td>
   		<td>波浪线</td>
   	</tr>
   </tbody>
 </table>
 
-## fontSize `float`
+## fontSize `Float`
 文字大小
 
 <table>
@@ -172,5 +183,97 @@ new Text(
   		<td>定义由粗到细的字符</td>
   	</tr>
 
+  </tbody>
+</table>
+
+
+## fontStyle
+设置不同的字体样式
+<table>
+  <thead>
+    <tr>
+      <td>值</td>
+      <td>描述</td>
+    </tr>
+  </thead>
+  <tbody>
+  	<tr>
+  		<td>normal</td>
+  		<td>默认</td>
+  	</tr>
+  	<tr>
+  		<td>italic</td>
+  		<td>斜体</td>
+  	</tr>
+  </tbody>
+</table>
+
+## height `Float`
+行高
+<table>
+  <thead>
+    <tr>
+      <td>值</td>
+      <td>描述</td>
+    </tr>
+  </thead>
+  <tbody>
+  	<tr>
+  		<td>30.0</td>
+  		<td>行高数值</td>
+  	</tr>
+  </tbody>
+</table>
+
+
+## letterSpacing
+元素的字母间距
+<table>
+  <thead>
+    <tr>
+      <td>值</td>
+      <td>描述</td>
+    </tr>
+  </thead>
+  <tbody>
+  	<tr>
+  		<td>30.0</td>
+  		<td>间距数值</td>
+  	</tr>
+  </tbody>
+</table>
+
+
+## letterSpacing `Float`
+元素的字母间距
+<table>
+  <thead>
+    <tr>
+      <td>值</td>
+      <td>描述</td>
+    </tr>
+  </thead>
+  <tbody>
+  	<tr>
+  		<td>30.0</td>
+  		<td>间距数值</td>
+  	</tr>
+  </tbody>
+</table>
+
+## fontFamily `String`
+
+<table>
+  <thead>
+    <tr>
+      <td>值</td>
+      <td>描述</td>
+    </tr>
+  </thead>
+  <tbody>
+  	<tr>
+  		<td>例如：monospace</td>
+  		<td>/</td>
+  	</tr>
   </tbody>
 </table>
