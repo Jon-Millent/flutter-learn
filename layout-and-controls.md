@@ -19,7 +19,7 @@
 2. 装饰组件
    - 透明(Opacity)
    - 变形(Transform)
-   - DecoratedBox
+   - 装饰盒(DecoratedBox)
    - FractionalTranslation
    - RotatedBox
    - ClipOval
