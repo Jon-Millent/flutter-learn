@@ -22,20 +22,20 @@ new Text(
 * <a href="#style">style</a>
   * <a href="#color">color</a> `颜色`
   * <a href="#decoration">decoration</a> `设置元素的文本修饰`
-  * <a href="#decorationColor">decorationColor</a> `设置元素的文本修饰颜色`
-  * <a href="#fontSize">fontSize</a> `文字大小`
-  * <a href="#fontWeight">fontWeight</a> `字体的粗细`
-  * <a href="#fontStyle">fontStyle</a> `设置不同的字体样式`
+  * <a href="#decorationcolor">decorationColor</a> `设置元素的文本修饰颜色`
+  * <a href="#fontsize">fontSize</a> `文字大小`
+  * <a href="#fontweight">fontWeight</a> `字体的粗细`
+  * <a href="#fontstyle">fontStyle</a> `设置不同的字体样式`
   * <a href="#height">height</a> `行高`
-  * <a href="#letterSpacing">letterSpacing</a> `字符间距`
-  * <a href="#fontFamily">fontFamily</a> `字体`
-  * <a href="#decorationStyle">decorationStyle</a> `设置元素的文本修饰样式`
+  * <a href="#letterspacing">letterSpacing</a> `字符间距`
+  * <a href="#fontfamily">fontFamily</a> `字体`
+  * <a href="#decorationstyle">decorationStyle</a> `设置元素的文本修饰样式`
 
-* <a href="#maxLines">maxLines</a> `文本要跨越的可选最大行数`
+* <a href="#maxlines">maxLines</a> `文本要跨越的可选最大行数`
 * <a href="#overflow">overflow</a> `文字溢出显示方式`
-* <a href="#softWrap">softWrap</a> `是否换行`
-* <a href="#textAlign">textAlign</a> `文字对齐方式`
-* <a href="#textScaleFactor">textScaleFactor</a> `文字放大比例`
+* <a href="#softwrap">softWrap</a> `是否换行`
+* <a href="#textalign">textAlign</a> `文字对齐方式`
+* <a href="#textscalefactor">textScaleFactor</a> `文字放大比例`
 
 # style
 
